@@ -1,0 +1,8 @@
+{
+  "name": "Instructor Attendance Tracker",
+  "description": "Secure QR code attendance and check-in tracker for instructors with SQLite storage and CSV reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
